@@ -34,7 +34,7 @@ func main() {
 
 	//x := float64(20)
 	//y := 10
-	switchX := 30
+	switchX := 20
 	//sqrt(x, y)
 	//fmt.Printf("math sqrt return %f", math.Sqrt(x))
 	fmt.Println(testSwitch(switchX))
